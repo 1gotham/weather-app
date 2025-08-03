@@ -23,3 +23,5 @@ A simple weather app built with HTML, CSS, and JavaScript using the WeatherAPI.
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+2. Make account on WeatherAPI and copy your API key.
+3. Place it instead of "YOUR_API_KEY" in script.js file.
